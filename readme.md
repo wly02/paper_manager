@@ -16,12 +16,12 @@
 
 # 2.环境配置与依赖安装说明。
 
-**2.1 环境要求**
-Python 3.8+  
+**2.1 环境要求**  
+Python 3.8+    
 操作系统：Windows/Linux/macOS  
 
-**2.2安装依赖**
-方式 1：pip 直接安装：  
+**2.2安装依赖**  
+方式 1：pip 直接安装：    
 执行以下命令安装项目所需的 Python 包：  
 
 ```bash
@@ -184,37 +184,37 @@ python main.py --help
 4.2.6命令行交互封装  
 基于Click封装7个核心命令，支持参数自定义  
 
-# 5.实验结果
-**5.1add_paper:添加并分类文件**
+# 5.实验结果  
+**5.1add_paper:添加并分类文件**  
 
 ![alt text](readmePic/image-1.png)
 
-**5.2 batch_organize:批量论文整理**
-论文批量归类整理前
+**5.2 batch_organize:批量论文整理**  
+论文批量归类整理前  
 ![alt text](readmePic/image-5.png)
 ![alt text](readmePic/image.png)
-整理后
+整理后  
 ![alt text](readmePic/image-6.png)
 
-**5.3 index_images:索引图片文件夹中的所有图片**
+**5.3 index_images:索引图片文件夹中的所有图片**  
 ![alt text](readmePic/image-8.png)
 
-**5.4 search_image:以文搜图**
+**5.4 search_image:以文搜图**  
 ![alt text](readmePic/image-9.png)
 
-**5.5 delete_all_images:删除图片索引**
+**5.5 delete_all_images:删除图片索引**  
 ![alt text](readmePic/image-7.png)
 
-**5.6 search_paper:语义搜索论文**
+**5.6 search_paper:语义搜索论文**  
 ![alt text](readmePic/image-10.png)
 
-**5.7 list_files 文件索引**
+**5.7 list_files 文件索引**  
 ![alt text](readmePic/image-11.png)
 ![alt text](readmePic/image-12.png)
 
-**5.8 remove_duplicates:删除重复文档**
-执行删除任务前
+**5.8 remove_duplicates:删除重复文档**  
+执行删除任务前  
 ![alt text](readmePic/image-2.png)
 ![alt text](readmePic/image-3.png)
-执行删除任务后
+执行删除任务后  
 ![alt text](readmePic/image-4.png)
