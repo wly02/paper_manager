@@ -1,0 +1,9 @@
+D:\ai-agent\papers\VQA\Tiong 等 - 2023 - Plug-and-Play VQA Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training.pdf
+D:\ai-agent\papers\VQA\Kuang 等 - 2025 - Natural Language Understanding and Inference with MLLM in Visual Question Answering A Survey.pdf
+D:\ai-agent\papers\VQA\Song 等 - 2021 - Spatio-temporal Contrastive Domain Adaptation for Action Recognition.pdf
+D:\ai-agent\papers\VQA\Mo和Liu - 2024 - Bridging the Gap between 2D and 3D Visual Question Answering A Fusion Approach for 3D VQA.pdf
+D:\ai-agent\papers\VQA\Lai 等 - 2024 - LISA Reasoning Segmentation via Large Language Model.pdf
+D:\ai-agent\papers\VQA\Liu 等 - 2025 - Seg-Zero Reasoning-Chain Guided Segmentation via Cognitive Reinforcement.pdf
+D:\ai-agent\papers\VQA\Pan 等 - BASKET A Large-Scale Video Dataset for Fine-Grained Skill Estimation.pdf
+D:\ai-agent\papers\CV\2111.11432v1.pdf
+D:\ai-agent\papers\VQA\Wu 等 - Multi-Modal Answer Validation for Knowledge-Based VQA.pdf
