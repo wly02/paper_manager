@@ -192,7 +192,7 @@ python main.py --help
 **5.2 batch_organize:批量论文整理**  
 论文批量归类整理前  
 ![alt text](readmePic/image-5.png)
-![alt text](readmePic/image.png)
+![alt text](readmePic/image.png)  
 整理后  
 ![alt text](readmePic/image-6.png)
 
